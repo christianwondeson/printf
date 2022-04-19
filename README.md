@@ -46,7 +46,8 @@
 - [ ] Handle length modifiers ```l``` and ```h``` for non-custom conversion specifiers.
 - [ ] Handle the field width for non-custom conversion specifiers.
 - [ ] Handle the precision for non-custom conversion specifiers.
-- [ ] Handle the ```0``` flag character for non-custom conversion specifiers.
+- [ ] Handle the ```0``` flag character for non-custom conversion specifiers.![163788643-5275226b-c1e7-4326-b96e-12092bb09f54](https://user-images.githubusercontent.com/94393557/164071978-cb18dbd8-cd6b-41a1-9a28-0494fa3cd199.png)
+
 - [x] Handle the custom conversion specifier ```r``` that prints the reversed string.
 - [x] Handle the custom conversion specifier ```R``` that prints the rot13'ed string.
 - [ ] All above options should work well together.
